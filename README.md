@@ -1,0 +1,2 @@
+# mysql-exercise
+Querying database 
